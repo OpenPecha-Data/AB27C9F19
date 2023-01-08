@@ -1,0 +1,22 @@
+id: AB27C9F19
+title: General Long-Life Prayer
+type: translation
+pechas:
+- I83482C78
+- I159BF899
+- I8F4AA438
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:03:14.421039
+  last_modified_at: 2023-01-04 13:03:14.421049
+  collections:
+  - Minling Terchen Gyurme Dorje Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I83482C78/5769: C4D7
+  I159BF899/CC17: C4D7
+  I8F4AA438/5501: C4D7
